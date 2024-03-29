@@ -1,7 +1,7 @@
 FondueText(Emoji Text Replacer)
 
 Overview
-I got tired of looking at news articles while surfing the internet, so I made this.　The Emoji Text Replacer is a JavaScript program designed to make web pages more fun by randomly replacing characters in specific elements (like links, headings, and paragraphs) with emojis.
+I got tired of looking at news articles while surfing the internet, so I made this.FondueText(Emoji Text Replacer) is a JavaScript program designed to make web pages more fun by randomly replacing characters in specific elements (like links, headings, and paragraphs) with emojis.
 
 How It Works
 The script selects all links (a tags), headings (h1 to h5), and paragraphs (p) on the page.
@@ -10,7 +10,7 @@ There's a 30% chance for each character to be replaced by an emoji from a predef
 
 
 概要
-ネットサーフィンしていてニュース記事を見ることに疲れたので作りました。 Emoji Text Replacerは、特定の要素（リンク、見出し、段落など）の文字を絵文字にランダムに置換することで、Webページをより楽しくするためのJavaScriptプログラムです。
+ネットサーフィンしていてニュース記事を見ることに疲れたので作りました。 FondueText(Emoji Text Replacer)は、特定の要素（リンク、見出し、段落など）の文字を絵文字にランダムに置換することで、Webページをより楽しくするためのJavaScriptプログラムです。
 
 動作
 このスクリプトは、ページ上の全てのリンク（a タグ）、見出し（h1 から h5）、段落（p）を選択します。
