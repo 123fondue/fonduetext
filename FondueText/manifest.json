@@ -1,0 +1,12 @@
+{
+  "name": "FondueText",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "This program changes the text on a webpage by randomly swapping some letters with emojis.",
+  "content_scripts": [{
+    "matches": [ "http://*/*", "https://*/*" ],
+    "js": [
+      "contents.js"
+    ]
+  }]
+}
